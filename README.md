@@ -1,5 +1,17 @@
-# 💫 About Me:
-I'm currently freelancing<br>I am a full stack web developer <br>I have learned mern stack <br>Currently making many projects like ecommerce website <br>etc
+<h1 align="center">Hi 👋, I'm Sujal Patel</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+
+- 🔭 I’m currently working on **Ecommerce Webiste**
+
+- 🌱 I’m currently learning **SQL, Three.js**
+
+- 👨‍💻 All of my projects are available at [https://devsujalportfolio.netlify.app/](https://devsujalportfolio.netlify.app/)
+
+- 💬 Ask me about **React, Tailwind**
+
+- 📫 How to reach me **sujal7455@gmail.com**
+
+- ⚡ Fun fact **I don't have any Degree**
 
 
 ## 🌐 Socials:
