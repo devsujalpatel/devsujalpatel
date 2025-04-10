@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal Patel</h1> <h3 align="center">I write Code, that make impact</h3>
+<h1 align="center">Hi 👋, I'm Sujal Patel</h1> <h3 align="center">I write Code, that makes Impact in life</h3>
 💫 About Me
 <p align="center"> 🔭 I’m currently working on <strong>Task Managment System</strong><br> 👯 I’m looking to collaborate on <strong>This Project</strong><br> 🤝 I’m looking for help with <strong>Components with animations</strong><br> 🌱 I’m currently learning <strong>Full Stack</strong><br> 💬 Ask me about <strong>Node.js</strong><br> ⚡ Fun fact: <strong>I don't have any degree</strong> </p>
 💻 Tech Stack
