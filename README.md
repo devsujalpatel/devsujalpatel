@@ -79,3 +79,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsujalpatel&layout=compact&locale=en&hide_border=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devsujalpatel&hide_border=true" height="180px"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsujalpatel/devsujalpatel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devsujalpatel/devsujalpatel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/devsujalpatel/devsujalpatel/output/github-snake.svg" />
+</picture>
