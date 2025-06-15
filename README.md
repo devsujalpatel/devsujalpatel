@@ -1,4 +1,4 @@
-<!--Baaner Imgae -->
+<!--Baaner Imgage -->
 <p align="center">
   <img src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=ecf05e47tygdo1i0kic5gydi2p2fpvixfzbnvo9rqdsotl88&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Banner" width="100%" />
 </p>
