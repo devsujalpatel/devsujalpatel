@@ -1,7 +1,7 @@
 <!--Baaner Imgage -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=ecf05e47tygdo1i0kic5gydi2p2fpvixfzbnvo9rqdsotl88&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Banner" width="100%" />
-</p>
+</p>-->
 
 <h1 align="center">Hi 👋, I'm Sujal Patel</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
@@ -55,7 +55,7 @@
 ### 🛠️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,go" />
 </p>
 
 ### ☁️ DevOps & Tools
