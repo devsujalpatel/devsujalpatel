@@ -1,5 +1,5 @@
 <p align="center">  
-  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/mybanner.png">
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/devsujal.png">
   <br><br>
 <p/>
 
@@ -9,19 +9,16 @@
 
 </div>
 
-
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi"> &nbsp; Hi there
 
 - I am **Full-Stack Developer** by day ☼ and **Community Contributor** by night ☾
 
-- I am a Self Taught developer who loves to create amazing web experiences 
+- I am a Self Taught developer who loves to create amazing web experiences
 - Currently creating a open source free api library called Your Api
 
 - Happy to connect Amazing folks and build Awesome network.
 
 <br/>
- 
-
 
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Stack
@@ -29,7 +26,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongo,postgres,tailwind,react,next,go,aws,docker,linux&theme=dark&perline=6" />
 </p>
-
 
 ### 📊 GitHub Stats
 
