@@ -46,6 +46,16 @@
 
 ---
 
+### 💻 Tech Stack
+
+<details>
+
+  <p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+</details>
+
+<!---
 ### 💻 Frontend
 
 <p>
@@ -69,17 +79,18 @@
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-
+--->
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
+<details>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsujalpatel&show_icons=true&locale=en&hide_border=true&theme=tokyonight" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsujalpatel&layout=compact&locale=en&hide_border=true&theme=tokyonight" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devsujalpatel&hide_border=true&theme=tokyonight" height="180px" />
 </p>
 
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsujalpatel/devsujalpatel/output/github-snake-dark.svg" />
