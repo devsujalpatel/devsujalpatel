@@ -1,88 +1,38 @@
-<!--Baaner Imgage -->
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=ecf05e47tygdo1i0kic5gydi2p2fpvixfzbnvo9rqdsotl88&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Banner" width="100%" />
-</p>-->
+<p align="center">  
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/mybanner.png">
+  <br><br>
+<p/>
 
-<h1 align="center">Hi 👋, I'm Sujal Patel</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<div align= center>
+
+[![Twitter Badge](https://img.shields.io/badge/-@sujalpatelcoder-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/sujalpatelcoder)](https://twitter.com/sujalpatelcoder) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/@devsujal-0e76a8)](https://www.linkedin.com/in/devsujal/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-@sujalpatelcoder@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:sujalpatelcoder@gmail.com)
+
+</div>
+
+
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi"> &nbsp; Hi there
+
+- I am **Full-Stack Developer** by day ☼ and **Community Contributor** by night ☾
+
+- I am a Self Taught developer who loves to create amazing web experiences 
+- Currently creating a open source free api library called Your Api
+
+- Happy to connect Amazing folks and build Awesome network.
+
+<br/>
+ 
+
+
+
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devsujalpatel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/sujalpatelcoder" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sujalpatelcoder?logo=twitter&style=flat" alt="Twitter Follow" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongo,postgres,tailwind,react,next,go,aws,docker,linux&theme=dark&perline=6" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on [LeetLab](https://github.com/devsujalpatel/leetlab)
-- 🌱 I’m currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/devsujalpatel/)
-- 📝 I regularly write articles on [Hashnode](https://devsujal.hashnode.dev)
-- 💬 Ask me about **MERN Stack**
-- 📫 How to reach me: **sujalpatelcoder@gmail.com**
-- ⚡ Fun fact: **I don't have a degree**
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/sujalpatelcoder" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/devsujal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/developersujal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://hashnode.com/@devsujal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-<details>
-
-  <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
-</details>
-
-<!---
-### 💻 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### 🛠️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,go" />
-</p>
-
-### ☁️ DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,firebase,appwrite,postman" />
-</p>
-
-### 🎨 Design & Writing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
---->
----
 
 ### 📊 GitHub Stats
+
 <details>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsujalpatel&show_icons=true&locale=en&hide_border=true&theme=tokyonight" height="180px" />
