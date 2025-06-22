@@ -5,7 +5,7 @@
 
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@sujalpatelcoder-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/sujalpatelcoder)](https://twitter.com/sujalpatelcoder) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/@devsujal-0e76a8)](https://www.linkedin.com/in/devsujal/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-@sujalpatelcoder@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:sujalpatelcoder@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@sujalpatelcoder-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/sujalpatelcoder)](https://twitter.com/sujalpatelcoder) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/@devsujal-0e76a8)](https://www.linkedin.com/in/devsujal/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-@email@sujalpatel.tech-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:email@sujalpatel.tech)
 
 </div>
 
