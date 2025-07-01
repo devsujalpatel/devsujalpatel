@@ -33,7 +33,7 @@
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsujalpatel&show_icons=true&locale=en&hide_border=true&theme=tokyonight" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsujalpatel&layout=compact&locale=en&hide_border=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsujalpatel&hide_border=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsujalpatel&hide_border=true&theme=tokyonight" height="180px" /> <!-- why the heck it does'nt work -->
 </p>
 
 </details>
