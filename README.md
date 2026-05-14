@@ -1,4 +1,3 @@
-<img width="1581" height="396" alt="banner_main" src="https://github.com/user-attachments/assets/df8431f7-29f5-47f4-9489-b9457d2c7590" />
 <p align="center">  
   <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="https://github.com/user-attachments/assets/df8431f7-29f5-47f4-9489-b9457d2c7590">
   <br><br>
