@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@sujalpatelcoder-1ca0f1?style=social&logo=x&logoColor=black)](https://twitter.com/sujalpatelcoder)
 &nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/@devsujal-0e76a8?style=flat&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/devsujal/) &nbsp;&nbsp;
-[![Mail Badge](https://img.shields.io/badge/email@sujalpatel.tech-c0392b?style=flat&logo=gmail&logoColor=pink)](mailto:email@sujalpatel.tech)
+[![Mail Badge](https://img.shields.io/badge/email@sujalpatel.tech-c0392b?style=flat&logo=gmail&logoColor=pink)](mailto:sujalpatelcoder@gmail.com)
 
 
 </div>
